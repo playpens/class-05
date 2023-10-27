@@ -5,3 +5,7 @@
 - CSS Positioning
 - Lab Preview
 - PPH
+
+## CELEBRATE!!!
+
+These are some awesome students that survived a week with John!
