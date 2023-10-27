@@ -9,3 +9,12 @@
 ## CELEBRATE!!!
 
 These are some awesome students that survived a week with John!
+
+### The things I know ...
+
+- CSS
+- JS
+- Functions
+- Arrays
+- Loops
+- John is bald
